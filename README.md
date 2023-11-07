@@ -9,5 +9,7 @@ Separated the Property address which has complete address(including city,address
 Split the Owner address into individual columns.
 Updated the columns with inappropriate names.
 Altered Y and N to understable manner in SoldasVacant column using case.
+
+
 Removed duplicates  Using CTE (Common table Expression)  using row_number() function and partition by clause.
 
